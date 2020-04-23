@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-23T01:10:38.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36 Edg/81.0.416.62" etag="R4Q5qeEl3LxFKPRoBqL7" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-23T01:11:22.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36 Edg/81.0.416.62" etag="Kl-grhCqd5Z_oz9D-0uA" version="13.0.1" type="github">
   <diagram id="Et8_F6-WbQjROiVX75DV" name="Page-1">
     <mxGraphModel dx="454" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,6 +26,15 @@
         </mxCell>
         <mxCell id="kar_7235bVjSQK-JRSzR-5" value="回应请求，提供其他下载者的IP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="330" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kar_7235bVjSQK-JRSzR-6" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kar_7235bVjSQK-JRSzR-7" value="PT就是私有连接，必须通过passkey验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
