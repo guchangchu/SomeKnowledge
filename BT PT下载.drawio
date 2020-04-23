@@ -1,1 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2020-04-23T01:03:46.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36 Edg/81.0.416.62" etag="8nQN37dzcz5_MroigR0l" version="13.0.1" type="github"><diagram id="Et8_F6-WbQjROiVX75DV" name="Page-1">tVRNb6MwEP01HFPxkYbutWm6PXSlSjm0e7TiKXhlGOQMBfrra2AcQ9lkt4dKHPyeZ8ae9xgHybZofxpR5b9Qgg7iULZBchfEcbSO46D/QtmNTLrejERmlOQgT+zVOzAZMlsrCcdZICFqUtWcPGBZwoFmnDAGm3nYK+r5qZXIYEHsD0Iv2WclKR/Zmzj1/AOoLHcnR5sf404hXDB3csyFxGZCJbsg2RpEGldFuwXdi+d0GfPuz+yeLmagpP9JCOun+zRdFbvH1evtg87UqoBVwnejzjUM0vbPEA3lmGEp9M6ztwbrUkJfNbTIxzwiVpaMLPkHiDo2U9SElsqp0LwLraKXyfp3X+rqmtFdy5UH0DlQkulepmCS1UOfNiCXN/bXN3VWNqaOWJsDXNDK/X7CZEAX4uKTuXYqAAuw97F5BrQg9Ta/h+DfMzvFeQftgk38gqFc903omk9aOOz96w1ockWwr8TQemOHeO4VlwND0F5WcNmxS0h5AvgJiK4ZN36gIjcl+WSYNuE3iRT/WyQySpTZ8L9/v0LJZ4XWS4U2fxHo5usCWeifnGFv8nAnuw8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-23T01:10:38.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36 Edg/81.0.416.62" etag="R4Q5qeEl3LxFKPRoBqL7" version="13.0.1" type="github">
+  <diagram id="Et8_F6-WbQjROiVX75DV" name="Page-1">
+    <mxGraphModel dx="454" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0uPF77-mEL-fBHlgi-me-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0uPF77-mEL-fBHlgi-me-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uPF77-mEL-fBHlgi-me-1" value="BT Torrent种子" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar_7235bVjSQK-JRSzR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kar_7235bVjSQK-JRSzR-1" target="kar_7235bVjSQK-JRSzR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar_7235bVjSQK-JRSzR-1" value="得到tracker地址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar_7235bVjSQK-JRSzR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kar_7235bVjSQK-JRSzR-2" target="0uPF77-mEL-fBHlgi-me-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kar_7235bVjSQK-JRSzR-2" value="连接tracker服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kar_7235bVjSQK-JRSzR-5" value="回应请求，提供其他下载者的IP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="330" width="160" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
